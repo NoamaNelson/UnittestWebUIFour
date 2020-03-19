@@ -1,0 +1,10 @@
+[test]
+name = zhangsan
+old = 20
+adress = dahsdasdahsjdasda
+
+[infor]
+high = 172
+weight = 110
+
+[Resolution]
