@@ -31,7 +31,7 @@
 
 - 把测试用例结果，通过HtmlTestRunner.py库封装成测试用例集，然后通过SendMail.py库，发送邮件给项目组成员。
 示例：  
-![](https://i.imgur.com/dj0sLOE.png)  
+![](https://i.imgur.com/FH98i8t.png)
 
 - 使用Eclipse开发平台，把测试结果的Console，保存到log中，实时抓取运行过程和结果数据（这个可以忽略，后续直接在代码中加log）  
 ![](https://i.imgur.com/9EvMrTa.png)    
